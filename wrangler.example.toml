@@ -1,4 +1,4 @@
-name = "notion-cloudflare-worker"
+name = "notion-api-worker"
 webpack_config = "webpack.config.js"
 type = "webpack"
 workers_dev = true
@@ -6,4 +6,4 @@ workers_dev = true
 account_id = ""
 zone_id = ""
 
-route = "notion-api.splitbee.io/*"
+route = "notion-api.napps.in/*"
